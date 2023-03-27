@@ -1,5 +1,23 @@
 # IBM Data Science Professional Certification
-This repository contains my projects and assignments completed during the IBM Data Science Professional Certification. The certification covers a range of topics related to data science, including data analysis, machine learning, data visualization, and more.
+
+[![GitHub Issues](https://img.shields.io/github/issues/DanieleBocchino/IBM-Data-Science)](https://github.com/DanieleBocchino/IBM-Data-Science)
+[![GitHub Stars](https://img.shields.io/github/stars/DanieleBocchino/IBM-Data-Science)](https://github.com/DanieleBocchino/IBM-Data-Science)
+[![GitHub Forks](https://img.shields.io/github/forks/DanieleBocchino/IBM-Data-Science)](https://github.com/DanieleBocchino/IBM-Data-Science)
+[![GitHub Contributors](https://img.shields.io/github/contributors/DanieleBocchino/IBM-Data-Science)](https://github.com/DanieleBocchino/IBM-Data-Science)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/DanieleBocchino/IBM-Data-Science)](https://github.com/DanieleBocchino/IBM-Data-Science)
+
+This repository contains my projects and assignments completed during the IBM Data Science Professional Certification. The certification covers a range of topics related to data science, including data analysis, machine learning, data visualization, and more. 
+
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FFFFFF&labelColor=5C5C5C&color=3776AB)
+![Numpy](https://img.shields.io/badge/NumPy-100000?style=flat&logo=Numpy&logoColor=FFFFFF&labelColor=5C5C5C&color=013243)
+![Pandas](https://img.shields.io/badge/Pandas-100000?style=flat&logo=Pandas&logoColor=FFFFFF&labelColor=5C5C5C&color=150458)
+![MatPlotLib](https://img.shields.io/badge/MatPlotLib-100000?style=flat&logo=LOT-Polish-Airlines&logoColor=FFFFFF&labelColor=5C5C5C&color=E4637C)
+![Plotly](https://img.shields.io/badge/Plotly-100000?style=flat&logo=Plotly&logoColor=FFFFFF&labelColor=5C5C5C&color=3F4F75)
+![Jupyter](https://img.shields.io/badge/Jupyter-100000?style=flat&logo=Jupyter&logoColor=FFFFFF&labelColor=5C5C5C&color=F37626)
+![postgresql](https://img.shields.io/badge/SQL-100000?style=flat&logo=postgresql&logoColor=FFFFFF&labelColor=5C5C5C&color=CC2927)
+
+
+
 
 ##  📑 Certification Overview
 The IBM Data Science Professional Certification is a comprehensive program that includes several courses and a final capstone project. The courses cover a range of topics, including:
@@ -43,5 +61,10 @@ To verify the certificates, click the images to follow the links.
 </p>
 
 
-## Author
-Daniele Bocchino - Data Scientist
+
+## Contributors
+
+[Daniele Bocchino](https://danielebocchino.github.io/)
+
+[![GitHub Followers](https://img.shields.io/github/followers/DanieleBocchino?style=social)](https://github.com/DanieleBocchino)  
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/daniele-bocchino-aa602a20b/)
